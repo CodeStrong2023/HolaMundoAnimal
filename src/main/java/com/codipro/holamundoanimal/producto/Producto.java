@@ -1,9 +1,5 @@
 package com.codipro.holamundoanimal.producto;
 
-/**
- *
- * @author juanb
- */
 public class Producto implements IProducto {
     
     private String nombre;

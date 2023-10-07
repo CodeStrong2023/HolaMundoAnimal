@@ -1,7 +1,6 @@
 package com.codipro.holamundoanimal;
 import com.codipro.holamundoanimal.producto.*;
 import com.codipro.holamundoanimal.tienda.*;
-import java.util.List;
 import java.util.Scanner;
 import java.util.function.Function;
 
