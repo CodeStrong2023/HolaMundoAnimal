@@ -60,6 +60,10 @@ public class HolaMundoAnimal {
         
         System.out.println("El precio final es de: " + tienda.obtenerCosteTotal());
         
+        System.out.println("");
+        
+        tienda.mostrarProductos();
+        
         
         
     }
@@ -79,7 +83,7 @@ public class HolaMundoAnimal {
         
             for(int i = 0; i < localidades.length; i++){
                 Localidad localidad = localidades[i];
-                System.out.println(i + " - " + localidad.nombre + "(" + localidad.codigo_postal + ")");
+                System.out.println((i + 1) + " - " + localidad.nombre + "(" + localidad.codigo_postal + ")");
             }
             
             try {
@@ -95,6 +99,8 @@ public class HolaMundoAnimal {
                 System.out.print("Ingrese el indice correspondiente a su ciudad: ");
                 
                 localidad_seleccionada = Integer.parseInt(entrada.nextLine());
+                
+                localidad_seleccionada -= 1;
                 
                 if(fuera_de_rango.apply(localidad_seleccionada)){
                     throw new Exception();
