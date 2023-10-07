@@ -9,10 +9,13 @@ public class Tienda {
     String nombre;
     String banner;
     List<IProducto> productos = new ArrayList<>();
+    int precio_total = 0;
+    Localidad destino;
 
     public Tienda(String nombre) {
         this.nombre = nombre;
         this.setBanner(nombre);
+        this.destino = new Localidad("Retiro en la tienda", 0000,0);
     }
 
     public void setBanner(String nombre) {
@@ -33,6 +36,7 @@ public class Tienda {
 
     public void showBanner() {
         System.out.println(this.banner);
+        System.out.println("");
     }
 
     public void mostrarProductos() {
@@ -48,6 +52,14 @@ public class Tienda {
         for (IProducto producto : productos) {
             this.productos.add(producto);
         }
+    }
+    
+    public void enviarHasta(Localidad localidad){
+        this.destino = localidad;
+    }
+    
+    public int obtenerCosteTotal(){
+        return this.destino.coste_de_envio;
     }
     
 }
