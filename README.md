@@ -1,4 +1,6 @@
-🐶HolaMundoAnimal App Equipo CodiPro
+# HolaMundoAnimal 🐶
+
+Proyecto del equipo Codipro de la cohorte 2023.
 
 Para este proyecto vamos a programar en lenguaje de Java un proyecto que ya ha sido programado en PSeInt.
 
