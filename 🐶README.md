@@ -1,4 +1,5 @@
-🐶HolaMundoAnimal Equipo CodiPro
+🐶HolaMundoAnimal App Equipo CodiPro
+
 Para este proyecto vamos a programar en lenguaje de Java un proyecto que ya ha sido programado en PSeInt.
 
 [visualizar repositorio del Equipo CodiPro](https://github.com/CodeStrong2023/SegundoSemestreCodiPro)
