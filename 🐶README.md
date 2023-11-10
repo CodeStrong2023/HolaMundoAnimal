@@ -9,3 +9,7 @@ Para este proyecto vamos a programar en lenguaje de Java un proyecto que ya ha s
 [Visualizar proyecto en Java Netbeans](https://github.com/CodeStrong2023/HolaMundoAnimal/tree/ed7eced3336eee51634940fafb283bfa7c2b4c0c)
 
 [Visualizar video del proyecto en Java Netbeans]()
+
+Java Development Kit 12 - JDK 12
+
+![image](https://github.com/CodeStrong2023/HolaMundoAnimal/assets/135785905/1097443d-2b61-49a5-8bec-4889e2533d84)
