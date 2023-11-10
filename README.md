@@ -18,7 +18,7 @@ Para este proyecto vamos a programar en lenguaje de Java un proyecto que ya ha s
 
 [Visualizar proyecto en Java Netbeans](https://github.com/CodeStrong2023/HolaMundoAnimal/tree/ed7eced3336eee51634940fafb283bfa7c2b4c0c)
 
-[Visualizar video del proyecto en Java Netbeans]()
+[Visualizar video del proyecto en Java Netbeans](https://drive.google.com/file/d/1YZ7ICeN_1UznWKbXkmGsZL2ynZ-muR4e/view?usp=sharing)
 
 
 
