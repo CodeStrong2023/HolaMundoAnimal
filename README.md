@@ -1,8 +1,16 @@
 # HolaMundoAnimal 🐶
 
+## Descripción
+
 Proyecto del equipo Codipro de la cohorte 2023.
 
 Para este proyecto vamos a programar en lenguaje de Java un proyecto que ya ha sido programado en PSeInt.
+
+## Requerimientos
+
+- Java Development Kit 12 - JDK 12
+
+## Enlaces
 
 [Visualizar repositorio del Equipo CodiPro](https://github.com/CodeStrong2023/SegundoSemestreCodiPro)
 
@@ -12,6 +20,6 @@ Para este proyecto vamos a programar en lenguaje de Java un proyecto que ya ha s
 
 [Visualizar video del proyecto en Java Netbeans]()
 
-Java Development Kit 12 - JDK 12
+
 
 ![image](https://github.com/CodeStrong2023/HolaMundoAnimal/assets/135785905/1097443d-2b61-49a5-8bec-4889e2533d84)
